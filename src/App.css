@@ -1,0 +1,13 @@
+.App {
+  padding: 1rem;
+}
+p[role="alert"] {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border: 2px solid red;
+}
+p[role="info"] {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border: 2px solid blue;
+}
